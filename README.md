@@ -1,2 +1,2 @@
 # Augmented-Reality-ARPilipinas
-> Download the latest .unitypackage, then export it to the project [HERE.](https://drive.google.com/file/d/19lE-tR0JK82K_IGmo2bqNZ83x5d9P5gb/view?usp=sharing)
+> Before you start download the latest unitypackage, then export it to the project [HERE.](https://drive.google.com/drive/folders/1_5Y6I3SDD6SyayT4gb6MUarK28XCxjcP?usp=sharing)
