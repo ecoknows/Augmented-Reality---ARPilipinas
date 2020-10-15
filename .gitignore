@@ -12,7 +12,7 @@
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive dat
-
+Textures
 # Visual Studio cache directory
 .vs/
 
