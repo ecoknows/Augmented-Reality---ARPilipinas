@@ -11,6 +11,7 @@
 /[Uu]ser[Ss]ettings/
 
 # FOLDER INSIDE THE ASSETS
+Assets/*.meta
 aModules
 Animation
 Blnder Items
